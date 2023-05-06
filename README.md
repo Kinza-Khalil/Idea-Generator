@@ -10,7 +10,7 @@
   macOS/Linux: source venv/bin/activate
 - Install dependencies: pip install -r requirements.txt
 
-**Test the application **
+**Test the application**
 
 - Set your OpenAI API key in the terminal: export OPENAI_API_KEY=your_api_key (macOS/Linux) or set OPENAI_API_KEY=your_api_key (Windows).
 - Run the Flask application: flask run
