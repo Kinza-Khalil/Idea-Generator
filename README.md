@@ -1,5 +1,6 @@
 # IdeaGenerator
-
+AI powered app that can generate 3 unique ideas
+- Clone the given repository
 **Set up a virtual environment and install dependencies**
 
 - Open VS Code and open your project folder.
@@ -15,3 +16,6 @@
 - Set your OpenAI API key in the terminal: export OPENAI_API_KEY=your_api_key (macOS/Linux) or set OPENAI_API_KEY=your_api_key (Windows).
 - Run the Flask application: flask run
 - Open your web browser and go to http://127.0.0.1:5000.
+
+**Hosted Application**
+https://ai-idea-generator.herokuapp.com/
